@@ -1,0 +1,7 @@
+{
+  "name": "Brown vs Board of Education",
+  "description": "A landmark U.S. Supreme Court decision in which the Court ruled that U.S. state laws establishing racial segregation in public schools are unconstitutional",
+  "judges": ["Earl Warren"],
+  "date": "1954-05-17",
+  "attributes": ["United States", "schools"]
+}

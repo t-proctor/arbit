@@ -1,0 +1,8 @@
+{
+  "name": "Earl Warren",
+  "description": "Supreme Court Chief Justice",
+  "attributes": [
+    { "trait_type": "cerification", "value": "J.D degree" },
+    { "trait_type": "expertise", "value": "legal" }
+  ]
+}
